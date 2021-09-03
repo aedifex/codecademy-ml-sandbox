@@ -18,6 +18,7 @@ jobs:
           command: |
             pytest
   build_push_image_cloud_run_mangaged:
+    working_directory: ~/text-analyzer
     machine: true
     steps:
       - checkout

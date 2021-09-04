@@ -1,0 +1,9 @@
+# Scratchpad for thoughts, musings, and sample commands.
+misc.txt
+
+# Python Specific Aux Files
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+.pytest_cache

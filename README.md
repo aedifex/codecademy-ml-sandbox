@@ -10,6 +10,8 @@ Machine learning is...
 
 ## The Application
 
+A simple Flask front end...
+
 ## The Exercises
 
 There are a number of exercises and code samples taken from the Machine Learning course on CodeCademy, which is highly recommended for folks interested in learning the basics.

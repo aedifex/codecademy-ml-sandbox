@@ -7,3 +7,4 @@ misc.txt
 *.pyd
 __pycache__
 .pytest_cache
+requirements.txt
